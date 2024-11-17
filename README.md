@@ -7,7 +7,7 @@
 ## About Me
 Hi, REAN-iT 
 
-[Facebook](https://www.facebook.com/reaninformationtech)
+[Facebook](https://www.facebook.com/reaninformationtech) <br/>
 [GitHub Pages](https://github.com/reaninformationtech)
 
 
