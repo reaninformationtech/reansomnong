@@ -1,6 +1,6 @@
 # reansomnong
 
-<img src="https://github.com/reaninformationtech/reansomnong/blob/c16769549b93df771b117d53ad08d5c0879c1e6d/banner.png" height="400" width="1000">
+<img src="https://github.com/reaninformationtech/reansomnong/blob/c16769549b93df771b117d53ad08d5c0879c1e6d/banner.png" height="400" width="900">
 
 > [!NOTE]
 > This project just share some function to education
