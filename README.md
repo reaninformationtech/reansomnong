@@ -2,12 +2,9 @@
 > [!NOTE]
 > This project just share some function to education
 
-
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+> [!Socail]
+> [Facebook](https://www.facebook.com/reaninformationtech) <br/>
+> [GitHub Pages](https://github.com/reaninformationtech)
 
 > [!IMPORTANT]
 > Key information users need to know to achieve their goal.
@@ -23,8 +20,7 @@
 ## About Me
 Hi, REAN-iT 
 
-[Facebook](https://www.facebook.com/reaninformationtech) <br/>
-[GitHub Pages](https://github.com/reaninformationtech)
+
 
 
 | No   | Languages |
