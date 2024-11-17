@@ -15,6 +15,5 @@ Hi, REAN-iT
 
 
 
-> [!IMPORTANT]
 > [Facebook](https://www.facebook.com/reaninformationtech) <br/>
 > [GitHub Pages](https://github.com/reaninformationtech)
