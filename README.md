@@ -2,7 +2,7 @@
 > [!NOTE]
 > This project just share some function to education
 
-> [!Socail]
+> [!IMPORTANT]
 > [Facebook](https://www.facebook.com/reaninformationtech) <br/>
 > [GitHub Pages](https://github.com/reaninformationtech)
 
