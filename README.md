@@ -1,4 +1,4 @@
 # reansomnong
 > [!NOTE]
-> Useful information that users should know, even when skimming content.
+> This project just share some function to education
 
